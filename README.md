@@ -51,21 +51,7 @@ CloudLine-VPN/
 | دیتابیس | Room |
 | آپدیت خودکار | WorkManager |
 | معماری | MVVM + Hilt |
-| حداقل SDK | API 24 (Android 7.0) |
 
-## نحوه Build
-
-### پیش‌نیازها
-- Android Studio Ladybug یا بالاتر
-- JDK 17
-- Android SDK 35
-
-### مراحل
-1. پروژه را در Android Studio باز کنید
-2. Sync Gradle را اجرا کنید
-3. Build > Build APK یا Run روی دستگاه
-
-## قابلیت‌ها
 
 ### پروتکل‌های پشتیبانی‌شده
 - VMess (TCP, WS, gRPC, XHTTP)
