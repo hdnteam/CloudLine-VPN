@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Edge-to-edge window style -->
+    <style name="Theme.CloudLineVPN.EdgeToEdge" parent="Theme.CloudLineVPN">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

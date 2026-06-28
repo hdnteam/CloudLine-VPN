@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloudLine VPN</string>
+    <string name="androidx_startup">androidx.startup</string>
+
+    <!-- Setup / Onboarding -->
+    <string name="setup_title">CloudLine VPN</string>
+    <string name="setup_subtitle">برای شروع، لینک اشتراک خود را وارد کنید</string>
+    <string name="setup_hint">لینک سابسکرایب را اینجا وارد کنید</string>
+    <string name="setup_btn">شروع</string>
+    <string name="setup_skip">بعداً</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_servers">سرورها</string>
+    <string name="nav_account">حساب</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_purchase">خرید</string>
+
+    <!-- Home -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">قطع</string>
+    <string name="connecting">در حال اتصال…</string>
+    <string name="auto_select">انتخاب خودکار بهترین سرور</string>
+    <string name="tap_connect">برای اتصال لمس کنید</string>
+    <string name="tap_disconnect">برای قطع لمس کنید</string>
+    <string name="step_update">بروزرسانی سرورها…</string>
+    <string name="step_ping">تست پینگ…</string>
+    <string name="step_connecting">در حال اتصال…</string>
+    <string name="download">دانلود</string>
+    <string name="upload">آپلود</string>
+
+    <!-- Servers -->
+    <string name="servers_title">سرورها</string>
+    <string name="test_all">تست همه</string>
+    <string name="testing">در حال تست…</string>
+    <string name="no_servers">سروری موجود نیست</string>
+    <string name="no_servers_hint">در تنظیمات، لینک اشتراک اضافه کنید</string>
+    <string name="sub_auto_update_notice">اشتراک قبل از هر اتصال بروزرسانی می‌شود</string>
+    <string name="refresh_servers">بروزرسانی لیست</string>
+
+    <!-- Account -->
+    <string name="account_title">حساب کاربری</string>
+    <string name="username">نام کاربری</string>
+    <string name="data_usage">حجم مصرفی</string>
+    <string name="days_remaining">روزهای باقیمانده</string>
+    <string name="days">روز</string>
+    <string name="no_expiry">بدون انقضا</string>
+    <string name="servers_count">تعداد سرورها</string>
+    <string name="no_account">اطلاعات حساب موجود نیست</string>
+    <string name="add_sub_hint">در تنظیمات لینک اشتراک اضافه کنید</string>
+
+    <!-- Settings -->
+    <string name="settings_title">تنظیمات</string>
+    <string name="subscription">اشتراک</string>
+    <string name="add_subscription">افزودن لینک اشتراک</string>
+    <string name="sub_url_hint">لینک اشتراک (https://…)</string>
+    <string name="sub_alias_hint">نام مستعار (اختیاری)</string>
+    <string name="update_servers">بروزرسانی لیست سرورها</string>
+    <string name="updating">در حال بروزرسانی…</string>
+    <string name="app_update">بروزرسانی برنامه</string>
+    <string name="check_update">بررسی بروزرسانی</string>
+    <string name="auto_update_desc">بروزرسانی خودکار روزانه (هسته Xray و برنامه)</string>
+    <string name="proxy_share">اشتراک‌گذاری پروکسی</string>
+    <string name="proxy_share_desc">اینترنت VPN را از طریق هات‌اسپات به اشتراک بگذارید</string>
+    <string name="language">زبان</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">لغو</string>
+    <string name="add">افزودن</string>
+
+    <!-- Purchase -->
+    <string name="purchase_title">خرید / تمدید اشتراک</string>
+    <string name="buy_telegram">خرید از طریق ربات تلگرام</string>
+
+    <!-- Permissions -->
+    <string name="perm_notification_title">اجازه اعلان</string>
+    <string name="perm_notification_desc">برای نمایش وضعیت اتصال VPN لازم است</string>
+    <string name="perm_vpn_title">اجازه VPN</string>
+    <string name="perm_vpn_desc">برای برقراری اتصال VPN لازم است</string>
+    <string name="grant_permission">تأیید</string>
+
+    <!-- Errors -->
+    <string name="error_no_servers">سروری یافت نشد. لینک اشتراک را بررسی کنید.</string>
+    <string name="error_all_unreachable">همه سرورها در دسترس نیستند. اینترنت خود را بررسی کنید.</string>
+    <string name="error_vpn_failed">اتصال VPN ناموفق بود. دوباره تلاش کنید.</string>
+
+    <!-- Footer -->
+    <string name="powered_by">POWERED BY HDNTEAM</string>
+</resources>

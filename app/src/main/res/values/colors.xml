@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cloud_dark_blue">#FF0A0E1A</color>
+    <color name="cloud_mid_blue">#FF111827</color>
+    <color name="cloud_surface">#FF1A2235</color>
+    <color name="cloud_card">#FF1E2D45</color>
+    <color name="cloud_accent">#FF4D9FEC</color>
+    <color name="cloud_green">#FF00E676</color>
+    <color name="cloud_red">#FFFF5252</color>
+    <color name="cloud_white">#FFE8EFF8</color>
+</resources>
